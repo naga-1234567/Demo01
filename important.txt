@@ -1,0 +1,317 @@
+sudo su - admwcmd1
+sudo su - admwcmt1
+
+https://edutubestg.delltechnologies.com
+https://edutubeadminstg.delltechnologies.com
+https://edutubeadminstg.delltechnologies.com/LoginAdmin.aspx
+https://edutubeservicestg.delltechnologies.com/
+DMZ access
+=================
+user ID:DMZ\a_nagar3
+Password:Dellteam@123
+Naga$#1989
+
+Test account: Username: Education.Customer5@emconlinesupport.com
+
+Running with gitlab-runner 14.5.0 (f0a95a76)  on buildops-shared-windows-vs2019bt-PC1-BUIPWPRBDIZJAPN cx5nWfNs  10.174.45.238
+Password: Dell@2019
+
+Test Partner: Education.partner7@emconlinesupport.com
+Password: Dell@2019
+
+https://edutubestg.delltechnologies.com/css.htm
+
+Service account Non-Prod
+======================
+sudo su - eduplappprd01
+sudo su - admwcmd1
+
+sudo su - admwcmt1
+sudo su - admwcmp1
+
+/apps/wcm/vfabric-web-server/servers/wcmprd/bin
+
+publisher:
+/apps/wcm/aem_publisher/crx-quickstart/bin/status
+/apps/wcm/aem_publisher/crx-quickstart/bin/stop
+/apps/wcm/aem_publisher/crx-quickstart/bin/start
+
+ 
+
+====================================================================================================================
+Author:
+/apps/wcm/aem_author/crx-quickstart/bin/status
+/apps/wcm/aem_author/crx-quickstart/bin/stop
+/apps/wcm/aem_author/crx-quickstart/bin/start
+
+ 
+
+sudo su - admwcmt1,
+
+sudo su - admwcmp1
+/apps/wcm/wcm/vfabric-web-server/servers/wcmstg/bin/httpdctl status
+/apps/wcm/wcm/vfabric-web-server/servers/wcmstg/bin/httpdctl start
+/apps/wcm/wcm/vfabric-web-server/servers/wcmstg/bin/httpdctl stop
+/apps/wcm/wcm/vfabric-web-server/servers/wcmstg/bin
+
+author--/apps/wcm/wcm/vfabric-web-server/servers/wcmstg/bin
+publisher--/apps/wcm/aem_publisher/crx-quickstart/bin
+
+/apps/wcm/aem65/crx-quickstart/bin
+DTC Dell
+===================
+sudo su - svc_npsabaem
+sudo su - svc_prdsabaem
+svc_npwlssabas1,svc_npwlssabad1,svc_prdwlssabap1
+
+edunlathstg01.amer.dell.com
+
+Please  raise a saba case to get the new to-be public IP for sftpwt.sabahosted.com and also let me know  when they are planning to make the change
+
+webservers DTC WEB/APPCHG0404531
+================
+	
+sudo systemctl start httpd.service
+	/usr/lib64/httpd/modules/
+sudo systemctl stop httpd.service
+sudo systemctl restart httpd.service
+sudo systemctl status httpd.service
+
+http://3.111.213.185:8081/repository/package/
+http://3.111.213.185:8081/repository/snapshots/
+
+
+067914490 
+savithri.bhatia@iictechnologies.com
+https://github.com/Nagaraju240818/Nagaraju.git
+
+
+
+
+http://edunlathdev11.amer.dell.com:4502/libs/granite/core/content/login.html
+
+
+04068443685-chandani
+
+
+CN = educationstg.dellemc.com
+O = Dell
+L = Round Rock
+S = Texas
+C = US	
+
+
+F18-544020163.
+CHG0447825
+DNS Name=edutubestg.dell.com
+DNS Name=edutubeadminstg.dell.com
+DNS Name=edutubeservicestg.dell.com
+
+tar cvf /tmp/datastore.tar  datastore
+du -sh * | sort -h
+
+df -hT
+
+
+[2/24/2022 6:29 PM] N, Nanitha
+Education.Customer7@emconlinesupport.com/Dell@2019
+Education.Partner7@emconlinesupport.com/ Dell@2019
+Education.Partner9@emconlinesupport.com
+Naga@1989
+
+tag:("cmdb:AppID:1483")
+
+
+tag:("cmdb:AppID:32018")
+
+<Files ~ ".pdf$">
+  Header set X-Robots-Tag "noindex, nofollow"
+</Files>
+
+
+
+SSLCertificateFile /home/svc_npsabaem/SSL/educationstgdellemccom.crt
+  SSLCertificateKeyFile /home/svc_npsabaem/SSL/educationstgdellemccom.key
+
+
+
+
+Service account Prod
+======================
+sudo su - admwcmp1
+cd vfabric-web-server/servers/wcmwebdev01/bin
+cd vfabric-web-server/servers/wcmwebdev01/htdocs
+
+/apps/wcm/vfabric-web-server/servers/wcmapp/htdocs
+/apps/wcm/vfabric-web-server/servers/wcmprd/htdocs
+
+webservers
+===========
+wcmwebdev01
+wcmwebdev02
+Apppserver
+==============
+wcmappdev01
+wcmappdev02
+
+vfabric-web-server/servers/wcmappdev01dev01/htdocs
+
+httpdctl 
+sudo -l
+
+cache clear
+===============
+/apps/wcm/vfabric-web-server/servers/wcmapp/htdocs
+rm -rf content etc etc.clientlibs libs
+
+Dell2020
+
+compare edunlappdev01 edunlappdev02
+
+stage
+==========
+    sabaem/changeme
+dev env
+=================
+    wcmpubdev01/02
+sabaem / edu@devaem
+thingwrx
+============
+​  ptcappstg01 : wlssabas1/wlssabas1123
+​    ptcappstg02: wlssabas1/wlssabas1123
+    ptcappprd01: wlssabap1/wlssabap1123
+	
+	/opt/pivotal/pivotal-tc-server/current/ptcappstg_8080/bin
+	/opt/pivotal/pivotal-tc-server/current/ptcappstg_8080/bin
+	
+	/opt/pivotal/pivotal-tc-server/current/ptcappprd_8080/bin
+./tcruntime-ctl.sh start
+./tcruntime-ctl.sh stop
+./tcruntime-ctl.sh status
+	
+	/opt/pivotal/pivotal-tc-server/current/ptcappprd_8080/logs
+	
+	/opt/pivotal/pivotal-tc-server/pivotal-tc-server-standard-3.2.8
+
+
+openssl pkcs12 -in educationdevdelltechnologiescom.pfx -clcerts -nokeys -out educationdevdelltechnologiescom.crt
+openssl pkcs12 -in educationdevdelltechnologiescom.pfx -nocerts -out educationdevdelltechnologiescom.key
+
+
+Vulnerablities
+========================
+
+Header always set Strict-Transport-Security "max-age=31536000";includeSubdomains;preload"
+
+Header always set Strict-Transport-Security "max-age=31536000";includeSubdomains;"
+
+Header set X-Content-Type-Options:nosniff
+
+
+Header set X-XSS-Protection"1;mode=block"
+
+Header always append X-Frame-Options SAMEORIGIN
+
+
+Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains; preload"
+
+https://educationstg.dellemc.com/
+
+
+Naga$#1989
+
+
+################Content-Security-Policy" header
+
+Header set X-Content-Type-Options:nosniff
+
+################Cross-Frame Scripting Defense
+
+Header always append X-Frame-Options SAMEORIGIN
+
+
+<IfModule mod_headers.c>
+  Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+EDUNLWEBSTG01
+EDUPLATHPRD01
+
+[8/23 7:59 PM] Antony, Lovely
+    Dell2020
+​[8/23 8:01 PM] Antony, Lovely
+    sabaem/changeme
+​[8/23 8:03 PM] Antony, Lovely
+    wcmpubdev01/02
+sabaem / edu@devaem
+​[8/23 8:06 PM] Antony, Lovely
+    ptcappstg01 : wlssabas1/wlssabas1123
+​[8/23 8:06 PM] Antony, Lovely
+    ptcappstg02: wlssabas1/wlssabas1123
+​[8/23 8:06 PM] Antony, Lovely
+    ptcappprd01: wlssabap1/wlssabap1123
+Include "/apps/wcm/vfabric-web-server/servers/wcmstg/conf/proxy_redirect.conf"
+Education.Partner7@emconlinesupport.com/ Dell@2019
+Test account: Username: Education.Customer5@emconlinesupport.com
+Password: Dell@2019
+
+bash-4.1$ sudo service httpd status
+httpd is stopped
+-bash-4.1$
+-bash-4.1$ sudo service httpd start
+Starting httpd: [ OK ]
+-bash-4.1$ sudo service httpd status
+httpd (pid 18872) is running...
+-bash-4.1$
+-bash-4.1$ sudo service httpd stop
+Stopping httpd: [ OK ]
+-bash-4.1$ sudo service httpd status
+
+
+sudo service httpd24-httpd status
+sudo service httpd24-httpd start
+sudo service httpd24-httpd stop
+/opt/rh/httpd24/root/usr/sbin/httpd -v
+sudo sudoedit /opt/rh/httpd24/root/etc/httpd/conf/httpd.conf
+sudo sudoedit /opt/rh/httpd24/root/etc/httpd/conf/httpd.conf
+CHG0370971
+INC14449792
+RITM5570953
+RITM6087569---mylb
+
+Team,
+
+To delete the cache from the DTC App servers, please do it from “/apps/wcm/cache” folder. Only delete the folders. Do not delete following 2 files.
+aceka.html
+favicon.ico
+
+sudo su - svc_npwlssabad1
+sudo su - svc_npwlssabas1
+sudo su - svc_prdwlssabap1
+
+/apps/wlssabad1/jobs/TO_Saba_Jobs/code	
+sftp mftattp28702@mftobinternal.dell.com
+/apps/wlssabad1/jobs/JDK/jdk1.8.0_311/jre/lib/security
+
+https://gitlab.dell.com/corporate/mylearning/serviceaccountautomation
+
+svc_npedutencoder@amer.dell.com
++9U_6vjoanbGWLR?m*F7CdTX
+
+cat /etc/os-release
+
+{
+  "deploy_password": "13@Sahasra",
+  "deploy_username": "Americas\\\\Nanitha_n",
+  "newcontent": "+9U_6vjoanbGWLR?m*F7CdTX",
+  "oldcontent": "gMP*7Zi_HjXkL0vUn?o~3eaq",
+  "password": "+9U_6vjoanbGWLR?m*F7CdTX",
+  "userName": "svc_npedutencoder"
+}
+
+ISP--internet service provider
+
+
+
+do openssl s_client -connect educationdev.dellemc.com:443 "-tls${proto}" 2>/dev/null < <(sleep 1; echo q) | grep Protocol | uniq; done
+
